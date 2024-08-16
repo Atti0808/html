@@ -1,0 +1,9 @@
+h2 {
+    color :rebeccapurple;
+}
+div {
+    background-image: url(./images/space.jpg);
+    background-size:contain ;
+    background-repeat: no-repeat;
+    background-position: right
+}
